@@ -1,6 +1,6 @@
 # INF 368 midterm project
 
-ID-190103335 Nurbakyt Akhmetshiykov
+ID-190103335 Nurbakyt Akhmetshaiykov
 
 Simple Redis clone with golang
 Furthermore, it save data into local json, so even after server terminating, you will be able to retrieve data from repo
