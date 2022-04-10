@@ -20,5 +20,5 @@ go run .\cmd\api\main.go
 ## Endpoints
 Can not implement route like in task so please use:
 
-- localhost:4200/set?key=keyname&value=valuename
+- localhost:4200/put?key=keyname&value=valuename
 - localhost:4200/get?key=keyname
